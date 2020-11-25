@@ -2,6 +2,6 @@ metadata:
   name: che-ideaic
 components:
   - type: cheEditor
-    reference: 'https://raw.githubusercontent.com/dipika21/intellj_devfile/master/meta.yaml'
+    reference: 'https://github.com/bivasda1/intellj_devfile/blob/main/meta.yaml'
     alias: ideaic-editor
 apiVersion: 1.0.0
